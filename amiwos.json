@@ -3,7 +3,7 @@
 		'name': 'Luis',
 		'hobby': 'Comer caballos',
  		'age': 12, 
-		'phone': 6671893201,
+		'phone': '6671893201',
  		'address': [
 			'DIF', 
 			'#1163', 
@@ -15,11 +15,23 @@
 		'name': 'Marco',
  		'hobby': 'Tirar piedritas', 
 		'age': 89, 
-		'phone': 6678349664, 
+		'phone': '6678349664', 
 		'address': [
 			'Colomos', 
 			'#4055', 
 			'3 rios', 
+			'Culiacan'
+		]
+	},
+	{
+		'name': 'Kassandra',
+ 		'hobby': 'Patear anceanos', 
+		'age': 23, 
+		'phone': '6618335669', 
+		'address': [
+			'Rubi', 
+			'#8432', 
+			'San Juan', 
 			'Culiacan'
 		]
 	}
